@@ -1,7 +1,6 @@
 ﻿Building a web app with Ap.NET MVC core in Pluralsight.
 Source Code of ASP.NET Core 2.0 -> https://github.com/aspnet
 Microst ASP.NET Core Documentation - >https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup
-This is the Testing Test
 ==========================================================================================================================
 
 Singnificance of the Program.cs Class in ASP.NET core 2.0

@@ -19,7 +19,7 @@ namespace TriggerApp
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-            .UseWebRoot(@"C:\Nilesh\PoC\CnG\TriggerApp\TriggerApp\StaticResource") 
+            .UseWebRoot( @"C:\Nilesh\PoC\CnG\TriggerApp\TriggerApp\StaticResource" ) 
                 .UseStartup<Startup>()
                 .Build();
     }
