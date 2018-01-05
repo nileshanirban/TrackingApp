@@ -37,3 +37,17 @@ https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files
 or
 app.UseStaticFiles(new StaticFileOptions() with code given above two link
 
+ASP.NET Core Filters
+=============================================================================================================================
+The apparent view is a bit different from ASP.NET MVC filters. In MVC core the filter is driven by interfaces resides 
+Microsoft.AspNetCore.Mvc.Filters.<<>>. If the filter need to be applied as attribute then need to derive from Attribute base class
+http://www.c-sharpcorner.com/article/working-with-filters-in-asp-net-core-mvc/
+https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters
+
+* ASP.NET MVC classic authrntication filter (https://visualstudiomagazine.com/articles/2013/08/28/asp_net-authentication-filters.aspx)
+
+ASP.NET Core Identity
+=============================================================================================================================
+UserManager is the Key class of the Identity module.
+
+
